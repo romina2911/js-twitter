@@ -2,7 +2,7 @@
 # **RETO: TWITTER**  
 
 >Track: Common Core.
->Integrante: Romina Herrera Polo.
+
 
 ***
 ![vista](assets/images/twitter.jpg)  
