@@ -3,9 +3,11 @@
 
 >Track: Common Core.
 
+Estudiante: Romina Herrera Polo 
+
 
 ***
-![vista](assets/images/twitter.jpg)  
+![vista](assets/twitter.jpg)   
 ***
 
 ## Objetivos:
