@@ -10,6 +10,10 @@ Proyecto del Common Core en el cual aplicamos lo aprendido en eventos y DOM de j
 
 ***
 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+***
+
 
 
 
