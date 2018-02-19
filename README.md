@@ -1,5 +1,5 @@
 
-# **RETO: TWITTER**  
+# Twitter
 
 Proyecto del Common Core en el cual aplicamos lo aprendido en eventos y DOM de javaScript para emular el app de Twitter
 
